@@ -1,3 +1,6 @@
 <?php
-  echo ('test');
+  $erg='';
+  $erg.='Hello World';
+
+  echo ($erg);
 ?>
